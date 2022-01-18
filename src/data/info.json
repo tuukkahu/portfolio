@@ -1,0 +1,30 @@
+[{
+    "title": "Työkokemus",
+    "description": "InSolution 2021",
+    "classnames": "bg-primary-400 grid-col-span-2"
+},
+{
+    "title": "Koulutus",
+    "description": "Tampere University 2018-",
+    "classnames": "bg-secondary-400"
+},
+{
+    "title": "Harrastukset",
+    "description": "Harrastus",
+    "classnames": "bg-neutral-100"
+},
+{
+    "title": "Työkokemus",
+    "description": "InSolution 2021",
+    "classnames": "bg-secondary-400 grid-col-span-2"
+},
+{
+    "title": "Koulutus",
+    "description": "Tampere University 2018-",
+    "classnames": "grid-col-span-2 bg-primary-400"
+},
+{
+    "title": "Harrastukset",
+    "description": "Harrastus",
+    "classnames": "bg-neutral-100"
+}]
