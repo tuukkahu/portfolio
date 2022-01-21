@@ -11,7 +11,7 @@ function App() {
       <Header />
       <div className="article-grid">
         {infos.map((info) => (
-          <Tile info={info} />
+          <Tile key={info.id} info={info} />
         ))}
       </div>
     </div>

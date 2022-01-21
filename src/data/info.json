@@ -1,29 +1,41 @@
 [{
+    "id": 1,
     "title": "Työkokemus",
     "description": "InSolution 2021",
     "classnames": "bg-primary-400 grid-col-span-2"
 },
 {
+    "id": 2,
     "title": "Koulutus",
     "description": "Tampere University 2018-",
     "classnames": "bg-secondary-400"
 },
 {
+    "id": 3,
     "title": "Harrastukset",
     "description": "Harrastus",
     "classnames": "bg-neutral-100"
 },
 {
+    "id": 4,
     "title": "Työkokemus",
     "description": "InSolution 2021",
     "classnames": "bg-secondary-400 grid-col-span-2"
 },
 {
+    "id": 5,
     "title": "Koulutus",
     "description": "Tampere University 2018-",
     "classnames": "grid-col-span-2 bg-primary-400"
 },
 {
+    "id": 6,
+    "title": "Koulutus",
+    "description": "Tampere University 2018-",
+    "classnames": "bg-primary-400"
+},
+{
+    "id": 7,
     "title": "Harrastukset",
     "description": "Harrastus",
     "classnames": "bg-neutral-100"
