@@ -32,11 +32,11 @@
     "id": 6,
     "title": "Koulutus",
     "description": "Tampere University 2018-",
-    "classnames": "bg-primary-400"
+    "classnames": "bg-primary-400 two-high"
 },
 {
     "id": 7,
-    "title": "Harrastukset",
-    "description": "Harrastus",
-    "classnames": "bg-neutral-100"
+    "title": "Koulutus",
+    "description": "Tampere University 2018-",
+    "classnames": "bg-neutral-100 two-high"
 }]
