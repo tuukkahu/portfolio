@@ -1,7 +1,12 @@
 [{
     "id": 1,
     "title": "Työkokemus",
-    "description": "InSolution 2021",
+    "description": [
+        "InSolution 2021"
+    ],
+    "descriptionDetail": [
+        "Built and designed a web application for employee time tracking."
+    ],
     "classnames": "bg-primary-400 grid-col-span-2"
 },
 {
@@ -14,7 +19,7 @@
     "id": 3,
     "title": "Harrastukset",
     "description": "Harrastus",
-    "classnames": "bg-neutral-100"
+    "classnames": "bg-secondary-500"
 },
 {
     "id": 4,
@@ -38,5 +43,5 @@
     "id": 7,
     "title": "Koulutus",
     "description": "Tampere University 2018-",
-    "classnames": "bg-neutral-100 two-high"
+    "classnames": "bg-secondary-500 two-high"
 }]

@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Header from './components/Header'
-import Tile from './components/Tile'
+import Card from './components/Tile'
 import jsonData from './data/info.json'
 
 function App() {
-  const [infos, setInfos] = useState(jsonData)
+  const infos = useState(jsonData)[0]
 
   return (
     <Router>
@@ -15,7 +15,7 @@ function App() {
           <Route path='/' exact element = {
             <div className="article-grid">
               {infos.map((info) => (
-                <Tile key={info.id} info={info} />
+                <Card key={info.id} info={info} />
               ))}
             </div>
           } />
@@ -30,5 +30,8 @@ function App() {
 // -- Kielet, IT-taidot
 // Koulutus
 // Harrastukset
+
+// Continue: 
+// https://youtu.be/5DEq5cWNYt8?t=2061
 
 export default App;
